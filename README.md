@@ -26,7 +26,7 @@ Visual Identity assets for ESL Americas Office
      <img src="https://user-images.githubusercontent.com/17634377/210446477-63c77647-b931-430a-be1a-6b55ef78c551.png" width="100%"/>
     </td>
     <td>
-     <img src="https://user-images.githubusercontent.com/17634377/210446511-9ef0f7ba-66b5-4c49-b09e-e429feb70815.png" width="100%"/>
+     <img src="https://user-images.githubusercontent.com/17634377/210448234-db039015-d353-44cc-ae70-e666d18d2efc.png" width="100%"/>
     </td>
   </tr>
 </table>
