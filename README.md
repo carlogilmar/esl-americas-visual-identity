@@ -70,4 +70,4 @@ Visual Identity assets for ESL Americas Office
 
 ## Important
 
-All images were created by Carlo Gilmar. 2023.
+Images created by Carlo Gilmar. 2023.
