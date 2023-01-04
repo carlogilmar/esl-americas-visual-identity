@@ -35,6 +35,34 @@ Visual Identity assets for ESL Americas Office
      <img src="https://user-images.githubusercontent.com/17634377/210455505-ba08fff2-5691-4b1d-9cc3-11ade1355538.png" width="100%"/>
     </td>
     <td>
+    <img src="https://user-images.githubusercontent.com/17634377/210591812-02ee3a96-a5b2-4e74-b687-ab5e02ce5c81.png" width="100%"/>
     </td>
   </tr>
+  
+  <tr>
+    <td>
+     <img src="https://user-images.githubusercontent.com/17634377/210592037-9a6b1c76-0197-49ca-8971-2054c051b770.png" width="100%"/>
+    </td>
+    <td>
+    <img src="https://user-images.githubusercontent.com/17634377/210592040-f77042ba-0918-4517-9dd7-9e4796cda446.png" width="100%"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+     <img src="https://user-images.githubusercontent.com/17634377/210592035-580510a3-9689-43ea-a069-cf917f04eef0.png" width="100%"/>
+    </td>
+    <td>
+    <img src="https://user-images.githubusercontent.com/17634377/210592032-0b2c91cb-c59c-4842-9889-358740870e63.png" width="100%"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+     <img src="https://user-images.githubusercontent.com/17634377/210592025-90dbd93a-a0a5-4f1d-8af1-27523214c3af.png" width="100%"/>
+    </td>
+    <td>
+    </td>
+  </tr>
+
 </table>
