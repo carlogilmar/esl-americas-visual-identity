@@ -65,7 +65,9 @@ Visual Identity assets for ESL Americas Office
       <img src="https://user-images.githubusercontent.com/17634377/210592684-cd9dfbc2-60ba-4611-ac19-f4fa5320f348.png" width="100%"/>
     </td>
   </tr>
-
 </table>
 
 
+## Important
+
+All images were created by Carlo Gilmar. 2023.
